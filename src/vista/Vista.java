@@ -156,7 +156,6 @@ public class Vista extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setMaximumSize(new java.awt.Dimension(1200, 560));
         setMinimumSize(new java.awt.Dimension(1200, 560));
-        setPreferredSize(new java.awt.Dimension(1200, 560));
         setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
